@@ -15,6 +15,12 @@ The AI generates a whole new story (like a new manga arc).
 Then create manga images for scenes of the new story.
 This way, you create both the new story and the manga art.
 
+1. Make AI Create New Mange Story:
+  ...
+
+2. Make AI Generated Manga Image:
+  
+
 🌟 Summary
 Style	Main Work	What You Create
 1. Novel ➔ Manga Images	Generate manga art from an existing novel	Only images (story already exists)
