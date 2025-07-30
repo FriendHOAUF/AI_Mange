@@ -7,6 +7,8 @@ You pick text (like a paragraph or scene).
 The AI makes matching manga-style images from that text.
 This way, the story stays the same — you only create the manga art.
 
+1.1 Make AI Generated Manga Image
+
 2. Text ➔ New Manga Story ➔ Manga Images (✏️ ➔ 📖 ➔ 🎨)
 Example: Red’s new adventure (Pokémon Special)
 Plan:
@@ -15,11 +17,11 @@ The AI generates a whole new story (like a new manga arc).
 Then create manga images for scenes of the new story.
 This way, you create both the new story and the manga art.
 
-1. Make AI Create New Mange Story:
+2.1 Make AI Create New Mange Story:
   ...
 
-2. Make AI Generated Manga Image:
-  
+2.2 Make AI Generated Manga Image:
+  ...
 
 🌟 Summary
 Style	Main Work	What You Create
